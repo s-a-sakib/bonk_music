@@ -58,7 +58,12 @@ Widget createMusic(Music music){
         Container(
           height: 200,
           width: 200,
-          child: Image.network(music.image, fit: BoxFit.cover,)
+          child: InkWell(
+            onTap: (){
+               
+            },
+            child: Image.network(music.image, fit: BoxFit.cover,)
+            )
           ),
         Text(music.name, style: const TextStyle(color: Colors.white),),
         Text(music.desc, style: const TextStyle(color: Colors.white),)

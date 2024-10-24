@@ -8,5 +8,7 @@
 /home/noob_coder/Desktop/bonk_music/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.json
 /home/noob_coder/Desktop/bonk_music/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin
 /home/noob_coder/Desktop/bonk_music/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES.Z
+/home/noob_coder/Desktop/bonk_music/build/linux/x64/debug/bundle/data/flutter_assets/NOTICES
+/home/noob_coder/Desktop/bonk_music/build/linux/x64/debug/bundle/data/flutter_assets/AssetManifest.bin.json
 /home/noob_coder/Desktop/bonk_music/build/linux/x64/debug/bundle/data/flutter_assets/FontManifest.json
 /home/noob_coder/Desktop/bonk_music/build/linux/x64/debug/bundle/data/flutter_assets/version.json
